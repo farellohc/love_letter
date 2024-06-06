@@ -18,7 +18,7 @@ body {
 }
 .front {
   position: absolute;
-  border-right: 130px solid #815ac0;
+  border-right: 130px solid #e8d1c5;
   border-top: 100px solid transparent;
   border-bottom: 100px solid transparent;
   height: 0;
@@ -30,7 +30,7 @@ body {
 .front:before {
   content: "";
   position: absolute;
-  border-left: 130px solid #815ac0;
+  border-left: 130px solid #e8d1c5;
   border-top: 100px solid transparent;
   border-bottom: 100px solid transparent;
   height: 0;
@@ -41,7 +41,7 @@ body {
 .front:after {
   content: "";
   position: absolute;
-  border-bottom: 105px solid #7251b5;
+  border-bottom: 105px solid #e8d1c5;
   border-left: 125px solid transparent;
   border-right: 125px solid transparent;
   height: 0;
